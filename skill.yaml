@@ -1,0 +1,5 @@
+name: "liquidity-inducement-trading"
+title: "Liquidity Inducement Trading"
+description: "Find liquidity-inducement trades the Marco way: HTF direction, 1H inducement plus trap plus block, 15m then 5m refinement, stop beyond the whole block, partial at internal liquidity and final at the opposite HTF pool, RR at least 3."
+category: "Work and knowledge"
+include_in_prompt: false
