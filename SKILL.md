@@ -16,6 +16,13 @@ trapped, and the trade runs from the block toward opposite liquidity.
 This skill never places an order. It only finds and checks setups, and
 the user places any trade manually on their own broker.
 
+## Direction first
+
+- State the Daily timeframe direction first, and confirm it with 4H, before any trade plan. Daily direction is a hard filter, not a suggestion.
+- Plan trades only in that direction. If Daily is bearish, plan sells only and never plan a buy. If Daily is bullish, plan buys only and never plan a sell.
+- Never present a setup in the opposite direction to Daily, even if a lower-timeframe inducement or block looks clean. An opposite-direction idea is a stay-out, not a trade.
+- In every setup, alert, and check, state the Daily direction first, then the setup. If direction and setup disagree, there is no trade.
+
 ## The model in order
 
 - Start with the higher timeframe story. Use Daily and 4H for direction
@@ -33,6 +40,10 @@ the user places any trade manually on their own broker.
   sellers. A retracement into a block can itself be inducement, not the
   real move. Look left for a nearer internal trap before anchoring to
   the most obvious distant structural level.
+- Require the level break: inducement alone is not a trade. If the
+  induced level does not break, the condition does not match, and there
+  is no entry. Only after the break, and then a trap and a fresh block,
+  does an entry become possible.
 - Find the trap: the opposite extreme is swept and the induced side is
   trapped. A sweep alone is not a trade, and a move that looks like a
   break of structure can be an inducement trap instead of continuation.
@@ -114,6 +125,12 @@ the user places any trade manually on their own broker.
   The default live set for this skill's owner is TradingView OANDA
   feed, gold and six forex pairs, with no sign-in, no order, and no
   data export.
+- State the Daily direction first for each pair, and plan only in that
+  direction. A setup in the opposite direction never qualifies, even if
+  its lower-timeframe shape looks clean.
+- A block counts only if it is fresh and unmitigated. A zone already
+  tapped and rejected earlier in the session is not a current setup,
+  even if price is close to it again.
 - For each pair, report direction, ranging or trending state, the
   range and its internal liquidity when no block is ready, any fresh
   1H block, whether price is tapping it on a closed candle, the
