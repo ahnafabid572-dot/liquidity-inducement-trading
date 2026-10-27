@@ -19,6 +19,7 @@ the user places any trade manually on their own broker.
 ## Direction first
 
 - State the Daily timeframe direction first, and confirm it with 4H, before any trade plan. Daily direction is a hard filter, not a suggestion.
+- Find levels on Daily and 4H with a long lookback. A level can be 3 to 4 months old, or 1 to 2 years old, and still be relevant. Read the chart that far back. Never limit level-finding to the last few days or weeks, and never drop an old HTF level just because it is old. An untouched HTF level stays relevant until price runs it.
 - Plan trades only in that direction. If Daily is bearish, plan sells only and never plan a buy. If Daily is bullish, plan buys only and never plan a sell.
 - Never present a setup in the opposite direction to Daily, even if a lower-timeframe inducement or block looks clean. An opposite-direction idea is a stay-out, not a trade.
 - In every setup, alert, and check, state the Daily direction first, then the setup. If direction and setup disagree, there is no trade.
@@ -29,7 +30,8 @@ the user places any trade manually on their own broker.
   only, never to detect an alert entry block.
 - Mark all liquidity before looking for an entry: range high and low,
   internal equal highs and lows, swing pools, internal levels, and
-  previous day high and low (PDH/PDL). PDH/PDL frame direction, they are
+  previous day high and low (PDH/PDL). Include Daily and 4H levels from
+  months and years back, not only recent levels. PDH/PDL frame direction, they are
   not automatic fade signals on touch.
 - Check where price is. If it is ranging, map the whole range and its
   internal liquidity first. A range between an upside and a downside
